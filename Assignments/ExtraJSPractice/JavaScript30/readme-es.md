@@ -2,7 +2,7 @@
 
 # JavaScript30
 
-Archivos iniciales + Soluciones completas para los 30 días de desafía JavaScript.
+Archivos iniciales + Soluciones completas para los 30 días de desafío JavaScript.
 
 Tome el curso en [https://JavaScript30.com](https://JavaScript30.com)
 
